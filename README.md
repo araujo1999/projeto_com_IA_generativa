@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# A Jornada da IA: Um Passeio pelo Futuro (Criação de e-book utilizando IA) 🌌
 
 ## 📒 Descrição
 Este eBook oferece uma visão prática sobre estratégias eficazes de marketing digital, focando em três práticas poderosas para captar mais clientes: marketing de conteúdo, otimização para mecanismos de busca (SEO) e campanhas de mídias sociais. Com dicas acessíveis e exemplos práticos, ele visa capacitar profissionais e empreendedores a impulsionarem suas marcas no ambiente digital.
