@@ -14,7 +14,7 @@ O processo de criação deste eBook foi enriquecido pelo uso de ferramentas como
 ## 🚀 Resultados
 Os resultados do eBook foram muito positivos, combinando conteúdo informativo com um design atraente. A estrutura clara e as dicas práticas tornaram o material acessível e útil para profissionais e empreendedores. A inclusão de imagens e infográficos gerados por Leonardo AI contribuiu para uma experiência visual envolvente, facilitando a compreensão dos conceitos abordados.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/araujo1999/projeto_com_IA_generativa/blob/main/Ebook%20marketing%20digital%20moderno%20azul%20cinza%20capa%20para%20ebook.pdf)
 
 ## 💭 Reflexão
 Essa experiência destacou a importância de integrar ferramentas de IA no processo criativo. O uso do ChatGPT para geração de texto e do Canva para design mostrou-se eficaz na otimização da produção de conteúdo. Além disso, a combinação de texto e elementos visuais não apenas enriqueceu o eBook, mas também demonstrou como as tecnologias podem potencializar resultados no marketing digital, oferecendo soluções inovadoras para desafios contemporâneos.
